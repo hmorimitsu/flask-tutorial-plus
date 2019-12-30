@@ -7,6 +7,8 @@ The code of the tutorial was adapted to take advantage of some common Flask libr
 - [Flask Login](https://flask-login.readthedocs.io/), and
 - [Flask Migrate](https://flask-migrate.readthedocs.io/).
 
+If you want to see an example of this same app using OAuth login with Google and Github, check my other repository at [https://github.com/hmorimitsu/flask-tutorial-plus-oauth](https://github.com/hmorimitsu/flask-tutorial-plus-oauth).
+
 The application is still the same as in the original tutorial, and a significant part of the code remains unchanged.
 If you are interested in learning more about the code, I recommend you check the original tutorial, which explains everything nicely.
 
